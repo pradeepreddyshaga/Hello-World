@@ -16,6 +16,6 @@ public class App implements CommandLineRunner {
 	}
 
 	public void run (String...arg0) throws Exception {
-	
+	  System.out.println("Test");
 	}
 }	
